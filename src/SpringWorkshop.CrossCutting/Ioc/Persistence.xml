@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects xmlns="http://www.springframework.net"
+         xmlns:db="http://www.springframework.net/database"
+         xmlns:tx="http://www.springframework.net/tx">
+  
+  <!-- Database Configuration -->
+  <db:provider id="DbProvider"
+                  provider="System.Data.SqlClient"
+                   connectionString="Data Source=.\SQLEXPRESS;Initial Catalog=SpringWorkshop;Integrated Security=True"/>
+
+  <object id="NHibernateSessionFactory" type="SpringWorkshop.Persistence.FluentNHibernateSessionFactory, SpringWorkshop.Persistence">
+    <property name="DbProvider" ref="DbProvider"/>
+    <property name="HibernateProperties">
+      <dictionary>
+        <entry key="connection.provider" value="NHibernate.Connection.DriverConnectionProvider"/>
+        <entry key="connection.driver_class" value="NHibernate.Driver.SqlClientDriver"/>
+        <entry key="dialect" value="NHibernate.Dialect.MsSql2005Dialect"/>
+      </dictionary>
+    </property>
+    <property name="ExposeTransactionAwareSessionFactory" value="true" />
+  </object>
+
+  <object id="transactionManager"
+      type="Spring.Data.NHibernate.HibernateTransactionManager, Spring.Data.NHibernate21">
+
+    <property name="DbProvider" ref="DbProvider"/>
+    <property name="SessionFactory" ref="NHibernateSessionFactory"/>
+
+  </object>
+  
+  <object id="ClienteRepository" type="SpringWorkshop.Persistence.Repositories.ClienteRepository"/>
+
+  <tx:attribute-driven/>
+</objects>

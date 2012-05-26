@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects xmlns="http://www.springframework.net">
+
+  <object id="pedidoService" type="SpringWorkshop.ApplicationServices.PedidoService">
+    <constructor-arg name="clientes" ref="ClienteRepository"/>
+  </object> 
+
+  <object id="ClienteService" type="Spring.Aop.Framework.ProxyFactoryObject, Spring.Aop">
+    <property name="target">
+      <object type="SpringWorkshop.ApplicationServices.ClienteService" >
+        <constructor-arg name="clientes" ref="ClienteRepository"/>
+      </object>
+    </property>
+    <property name="interceptorNames">
+      <list>
+        <value>CommonLoggingAdvice</value>
+        <value>HelloWorldAdvice</value>
+      </list>
+    </property>
+  </object>
+</objects>

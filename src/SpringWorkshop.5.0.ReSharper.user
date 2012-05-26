@@ -1,0 +1,297 @@
+<Configuration>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.5\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="939EA467-DA15-40B2-A823-E3294B96580B/d:Views/f:Web.config" caret="1231" fromTop="0" />
+      <File id="BCCB04FA-D34C-4D18-8413-10D52483AAC6/f:Imports.xml" caret="268" fromTop="5" />
+      <File id="939EA467-DA15-40B2-A823-E3294B96580B/f:Global.asax.cs" caret="302" fromTop="10" />
+      <File id="BCCB04FA-D34C-4D18-8413-10D52483AAC6/d:Logging/f:Log4Net.xml" caret="571" fromTop="5" />
+      <File id="BCCB04FA-D34C-4D18-8413-10D52483AAC6/d:Aspects/f:Aspects.xml" caret="700" fromTop="14" />
+      <File id="BCCB04FA-D34C-4D18-8413-10D52483AAC6/d:Aspects/d:Advices/f:HelloWorldAdvice.cs" caret="405" fromTop="12" />
+      <File id="D40179A8-E13C-4B37-86AE-20A717DE52C9/f:ClienteController.cs" caret="491" fromTop="10" />
+      <File id="939EA467-DA15-40B2-A823-E3294B96580B/d:Views/d:Cliente/f:Crear.aspx" caret="1594" fromTop="11" />
+      <File id="939EA467-DA15-40B2-A823-E3294B96580B/d:Views/d:Pedido/f:Index.aspx" caret="1118" fromTop="5" />
+      <File id="BF43698B-9314-4FAD-956E-0182B27EEA4D/f:PedidoService.cs" caret="612" fromTop="0" />
+      <File id="939EA467-DA15-40B2-A823-E3294B96580B/d:Views/d:Cliente/f:Index.aspx" caret="0" fromTop="0" />
+      <File id="BCCB04FA-D34C-4D18-8413-10D52483AAC6/d:Ioc/f:ApplicationServices.xml" caret="739" fromTop="0" />
+      <File id="BCCB04FA-D34C-4D18-8413-10D52483AAC6/d:Ioc/f:Controllers.xml" caret="632" fromTop="9" />
+      <File id="4EB017E8-C066-498C-9336-912FFAFDE93F/d:Bases/f:Entity.cs" caret="42" fromTop="1" />
+      <File id="424F9898-D734-44CA-9B12-BC06557AFFFD/d:Mappings/f:MappingsIntegrationTest.cs" caret="240" fromTop="6" />
+      <File id="424F9898-D734-44CA-9B12-BC06557AFFFD/d:TestBases/f:MappingTestBase.cs" caret="330" fromTop="8" />
+      <File id="BD464734-714D-4CAC-ABBD-365325191FF3/d:Repositories/f:Repository.cs" caret="385" fromTop="10" />
+      <File id="4EB017E8-C066-498C-9336-912FFAFDE93F/f:Pedido.cs" caret="556" fromTop="18" />
+      <File id="4EB017E8-C066-498C-9336-912FFAFDE93F/d:PersistenceInterfaces/f:IClienteRepository.cs" caret="140" fromTop="3" />
+      <File id="424F9898-D734-44CA-9B12-BC06557AFFFD/d:TestBases/f:RepositoryTestBase.cs" caret="690" fromTop="5" />
+      <File id="4EB017E8-C066-498C-9336-912FFAFDE93F/f:Cliente.cs" caret="468" fromTop="10" />
+      <File id="939EA467-DA15-40B2-A823-E3294B96580B/f:Web.config" caret="3437" fromTop="13" />
+      <File id="424F9898-D734-44CA-9B12-BC06557AFFFD/d:Repositories/f:ClienteRepository.cs" caret="538" fromTop="13" />
+      <File id="D40179A8-E13C-4B37-86AE-20A717DE52C9/f:HomeController.cs" caret="0" fromTop="0" />
+      <File id="D40179A8-E13C-4B37-86AE-20A717DE52C9/f:PedidoController.cs" caret="507" fromTop="17" />
+      <File id="BF43698B-9314-4FAD-956E-0182B27EEA4D/f:ClienteService.cs" caret="33" fromTop="0" />
+      <File id="BD464734-714D-4CAC-ABBD-365325191FF3/d:Repositories/f:ClienteRepository.cs" caret="283" fromTop="7" />
+      <File id="BCCB04FA-D34C-4D18-8413-10D52483AAC6/d:Ioc/f:Persistence.xml" caret="538" fromTop="4" />
+      <File id="BCCB04FA-D34C-4D18-8413-10D52483AAC6/d:Bootstrapping/f:StartUp.cs" caret="1651" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="4EB017E8-C066-498C-9336-912FFAFDE93F/d:Bases/f:Entity.cs" caret="42" fromTop="1" />
+      <File id="BCCB04FA-D34C-4D18-8413-10D52483AAC6/d:Ioc/f:ApplicationServices.xml" caret="739" fromTop="19" />
+      <File id="BCCB04FA-D34C-4D18-8413-10D52483AAC6/d:Ioc/f:ApplicationServices.xml" caret="739" fromTop="0" />
+      <File id="BCCB04FA-D34C-4D18-8413-10D52483AAC6/d:Ioc/f:Controllers.xml" caret="91" fromTop="1" />
+      <File id="BCCB04FA-D34C-4D18-8413-10D52483AAC6/d:Ioc/f:Controllers.xml" caret="632" fromTop="9" />
+      <File id="424F9898-D734-44CA-9B12-BC06557AFFFD/d:Repositories/f:ClienteRepository.cs" caret="1369" fromTop="11" />
+      <File id="4EB017E8-C066-498C-9336-912FFAFDE93F/f:Cliente.cs" caret="769" fromTop="13" />
+      <File id="4EB017E8-C066-498C-9336-912FFAFDE93F/f:Pedido.cs" caret="331" fromTop="9" />
+      <File id="424F9898-D734-44CA-9B12-BC06557AFFFD/d:TestBases/f:MappingTestBase.cs" caret="330" fromTop="8" />
+      <File id="424F9898-D734-44CA-9B12-BC06557AFFFD/d:Repositories/f:ClienteRepository.cs" caret="1263" fromTop="6" />
+      <File id="424F9898-D734-44CA-9B12-BC06557AFFFD/d:Repositories/f:ClienteRepository.cs" caret="1263" fromTop="4" />
+      <File id="424F9898-D734-44CA-9B12-BC06557AFFFD/d:Repositories/f:ClienteRepository.cs" caret="1263" fromTop="17" />
+      <File id="424F9898-D734-44CA-9B12-BC06557AFFFD/d:Repositories/f:ClienteRepository.cs" caret="1263" fromTop="11" />
+      <File id="424F9898-D734-44CA-9B12-BC06557AFFFD/d:Repositories/f:ClienteRepository.cs" caret="1263" fromTop="9" />
+      <File id="424F9898-D734-44CA-9B12-BC06557AFFFD/d:TestBases/f:RepositoryTestBase.cs" caret="794" fromTop="16" />
+      <File id="4EB017E8-C066-498C-9336-912FFAFDE93F/f:Cliente.cs" caret="525" fromTop="11" />
+      <File id="424F9898-D734-44CA-9B12-BC06557AFFFD/d:TestBases/f:RepositoryTestBase.cs" caret="497" fromTop="12" />
+      <File id="424F9898-D734-44CA-9B12-BC06557AFFFD/d:Repositories/f:ClienteRepository.cs" caret="1263" fromTop="33" />
+      <File id="424F9898-D734-44CA-9B12-BC06557AFFFD/d:Repositories/f:ClienteRepository.cs" caret="403" fromTop="11" />
+      <File id="424F9898-D734-44CA-9B12-BC06557AFFFD/d:Repositories/f:ClienteRepository.cs" caret="220" fromTop="5" />
+      <File id="424F9898-D734-44CA-9B12-BC06557AFFFD/d:Repositories/f:ClienteRepository.cs" caret="524" fromTop="16" />
+      <File id="424F9898-D734-44CA-9B12-BC06557AFFFD/d:Repositories/f:ClienteRepository.cs" caret="891" fromTop="5" />
+      <File id="424F9898-D734-44CA-9B12-BC06557AFFFD/d:Repositories/f:ClienteRepository.cs" caret="1061" fromTop="10" />
+      <File id="424F9898-D734-44CA-9B12-BC06557AFFFD/d:Repositories/f:ClienteRepository.cs" caret="650" fromTop="9" />
+      <File id="424F9898-D734-44CA-9B12-BC06557AFFFD/d:TestBases/f:RepositoryTestBase.cs" caret="978" fromTop="12" />
+      <File id="BD464734-714D-4CAC-ABBD-365325191FF3/d:Repositories/f:ClienteRepository.cs" caret="270" fromTop="7" />
+      <File id="D40179A8-E13C-4B37-86AE-20A717DE52C9/f:PedidoController.cs" caret="436" fromTop="14" />
+      <File id="D40179A8-E13C-4B37-86AE-20A717DE52C9/f:PedidoController.cs" caret="507" fromTop="17" />
+      <File id="BF43698B-9314-4FAD-956E-0182B27EEA4D/f:ClienteService.cs" caret="527" fromTop="12" />
+      <File id="BF43698B-9314-4FAD-956E-0182B27EEA4D/f:ClienteService.cs" caret="33" fromTop="0" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers>
+      <nUnitIndustrialLogicRecorder>False</nUnitIndustrialLogicRecorder>
+    </Providers>
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="3" />
+      <Item value="Configuration" priority="0" />
+      <Item value="Assembly`0" priority="0" />
+      <Item value="this" priority="7" />
+      <Item value="public" priority="15" />
+      <Item value="static" priority="1" />
+      <Item value="new" priority="6" />
+      <Item value="webApplicationContext" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="ISessionFactory`0" priority="1" />
+      <Item value="prop" priority="4" />
+      <Item value="List&lt;Orden&gt;" priority="0" />
+      <Item value="String`0" priority="0" />
+      <Item value="void" priority="3" />
+      <Item value="EnvioPedidoService`0" priority="0" />
+      <Item value="return" priority="10" />
+      <Item value="Session" priority="1" />
+      <Item value="where" priority="1" />
+      <Item value="class" priority="0" />
+      <Item value="T`0" priority="0" />
+      <Item value="clientes" priority="2" />
+      <Item value="int" priority="2" />
+      <Item value="idCliente" priority="3" />
+      <Item value="cliente" priority="14" />
+      <Item value="foreach" priority="0" />
+      <Item value="if" priority="1" />
+      <Item value="pedido" priority="6" />
+      <Item value="FechaPedido" priority="0" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="Pedido`0" priority="2" />
+      <Item value="ActionResult`0" priority="4" />
+      <Item value="View`0" priority="4" />
+      <Item value="ViewResult`0" priority="1" />
+      <Item value="Cliente`0" priority="7" />
+      <Item value="clienteService" priority="2" />
+      <Item value="interface" priority="0" />
+      <Item value="Repository" priority="0" />
+      <Item value="IClienteService`0" priority="0" />
+      <Item value="IClienteRepository`0" priority="1" />
+      <Item value="assembly" priority="0" />
+      <Item value="protected" priority="1" />
+      <Item value="SessionFactory" priority="1" />
+      <Item value="LocalSessionFactoryObject`0" priority="0" />
+      <Item value="SessionFactoryObject" priority="1" />
+      <Item value="SessionFactoryUtils`0" priority="0" />
+      <Item value="factoryObject" priority="0" />
+      <Item value="HttpGet" priority="1" />
+      <Item value="HttpPost" priority="1" />
+      <Item value="try" priority="0" />
+      <Item value="RedirectToAction`0" priority="0" />
+      <Item value="using" priority="3" />
+      <Item value="ActionResults" priority="1" />
+      <Item value="MvcContrib" priority="0" />
+      <Item value="stream" priority="1" />
+      <Item value="Spring" priority="3" />
+      <Item value="Aop" priority="1" />
+      <Item value="Config" priority="0" />
+      <Item value="log4net" priority="0" />
+      <Item value="Core" priority="0" />
+      <Item value="log" priority="1" />
+      <Item value="LogManager`0" priority="0" />
+      <Item value="target" priority="0" />
+      <Item value="Common" priority="0" />
+      <Item value="Logging" priority="0" />
+      <Item value="pedidoService" priority="2" />
+      <Item value="pedidos" priority="1" />
+      <Item value="ViewContext" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="routes" priority="0" />
+      <Item value="Request" priority="0" />
+      <Item value="MappingsIntegrationTest`0" priority="0" />
+      <Item value="TextMessageWriter`0" priority="0" />
+      <Item value="Cliente" priority="0" />
+      <Item value="Pedido" priority="0" />
+      <Item value="Clientes" priority="1" />
+      <Item value="ae" priority="1" />
+      <Item value="System" priority="1" />
+      <Item value="Linq" priority="0" />
+      <Item value="nuevoCliente" priority="0" />
+      <Item value="session" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Cfg.FluentMappingsContainer">
+      <Item value="AddFromAssemblyOf`1" priority="0" />
+      <Item value="Add`0" priority="0" />
+      <Item value="Conventions" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="GetCallingAssembly`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SpringWorkshop.Bootstrapper.StartUp">
+      <Item value="Init`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Practices.ServiceLocation.ServiceLocator">
+      <Item value="Current" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Practices.ServiceLocation.IServiceLocator">
+      <Item value="GetInstance`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ICriteria">
+      <Item value="List`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpringWorkshop.Domain.PersistenceInterfaces.IRepository`1">
+      <Item value="Obtener`0" priority="0" />
+      <Item value="ObtenerTodos`0" priority="0" />
+      <Item value="Agregar`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpringWorkshop.Domain.Cliente">
+      <Item value="pedidos" priority="1" />
+      <Item value="Pedidos" priority="1" />
+      <Item value="Id" priority="1" />
+      <Item value="Nombre" priority="0" />
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpringWorkshop.Domain.Pedido">
+      <Item value="FechaPedido" priority="1" />
+      <Item value="DireccionEnvio" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="HasValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+      <Item value="Today" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpringWorkshop.Controllers.ClienteController">
+      <Item value="View`0" priority="0" />
+      <Item value="RedirectToAction`0" priority="0" />
+      <Item value="Index`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpringWorkshop.ApplicationServices.IClienteService">
+      <Item value="ObtenerTodos`0" priority="0" />
+      <Item value="Registrar`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISession">
+      <Item value="Get`1" priority="0" />
+      <Item value="Transaction" priority="2" />
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Cfg.MappingConfiguration">
+      <Item value="FluentMappings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Cfg.SetupConventionFinder`1">
+      <Item value="AddFromAssemblyOf`1" priority="1" />
+      <Item value="AddAssembly`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISessionFactory">
+      <Item value="OpenSession`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@log4net.LogManager">
+      <Item value="GetLogger`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:log4net.ILog">
+      <Item value="Info`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpringWorkshop.ApplicationServices.PedidoService">
+      <Item value="clientes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpringWorkshop.Domain.PersistenceInterfaces.IClienteRepository">
+      <Item value="Obtener`0" priority="1" />
+      <Item value="Agregar`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpringWorkshop.ApplicationServices.IPedidoService">
+      <Item value="Procesar`0" priority="0" />
+      <Item value="ObtenerPedidos`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="Action`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ASP.views_pedido_index_aspx">
+      <Item value="ViewContext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ViewContext">
+      <Item value="RouteData" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Routing.RouteData">
+      <Item value="Values" priority="0" />
+      <Item value="GetRequiredString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpringWorkshop.Controllers.PedidoController">
+      <Item value="RouteData" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Routing.RouteCollection">
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpRequest">
+      <Item value="QueryString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="JetBrains.ReSharper.Feature.Services.Asp.CodeCompletion.AspBasicCodeCompletionContext">
+      <Item value="&lt;script" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="First`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpringWorkshop.IntegrationTests.TestBases.RepositoryTestBase">
+      <Item value="applicationContext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ITransaction">
+      <Item value="IsActive" priority="0" />
+      <Item value="Commit`0" priority="0" />
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
